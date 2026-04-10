@@ -1,4 +1,4 @@
 
-FROM nginx:1.29.7
-ADD https://github.com/daws-88s/concepts/blob/main/disk-management.MD /tmp/
-ADD sample-1.tar /tmp/ 
+FROM alamlinux:9
+CMD["google.com"]
+ENTRYPOINT ["ping"]
