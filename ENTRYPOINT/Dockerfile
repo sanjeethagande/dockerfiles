@@ -1,4 +1,4 @@
 
 FROM alamlinux:9
-CMD["google.com"]
+CMD ["google.com"]
 ENTRYPOINT ["ping"]
